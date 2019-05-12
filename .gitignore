@@ -2,3 +2,8 @@
 /save
 /bin
 /downloadlists
+/cfg/config.cfg
+/cfg/server_blacklist.txt
+/custom/proonlife/sound/sound.cache
+/demoheader.tmp
+/modelsounds.cache

@@ -1,0 +1,13 @@
+Immediate TODOs:
+-figure out why the title isn't loading the Franklin Gothic Heavy font from resources
+-change whatever scripting is needed so all the ambient_generics that run modified music like the TPB theme can function as proper music files so they don't get cut off by hitting Esc
+-work on some models already
+-import some props from HL2 since HL:S just reads from whatever it feels like (can't get that nice blocky computer CRT to load, would go perfect for lobby barney)
+-nipper crusher trap instead of the load zone for GORDON AAAAAAAAAAAAA in the c1a1 lobby
+-find out why that one texture in the hallway with the lasers in c1a1 shows up black
+-either finally think of what to do for the intro or move on to working past c1a1
+-fix the suit VOX scripts in sentences.txt (currently unmodified) so we can keep the hurt legs line from getting drowned out with CUM CUM CUM
+-add a lot of the sounds primetime dumped recently (keep forgetting that)
+-more texture edits (threw the PNGs in the toedit folder if anyone has ideas)
+
+NOTE: c1a0b is now c1a0x to avoid a bizzare issue where loading UF from the main menu would load the default map and not Proon's

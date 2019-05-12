@@ -1,0 +1,2422 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity path_corner (727.85 2111.69 3064.13) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 -120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 748.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 2145.7)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3714.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3348.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3372.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1358093 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5844 texinfos to 4163
+Reduced 336 texdatas to 324 (7823 bytes to 7367)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+6 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+LoadPortals: couldn't read c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[116 texlights parsed from 'lights.rad']
+
+Loading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+No vis information, direct lighting only.
+15145 faces
+26 degenerate faces
+511011 square feet [73585712.00 square inches]
+4 Displacements
+16145 Square Feet [2324916.75 Square Inches]
+543 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0166 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+281 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 268/1024        12864/49152    (26.2%) 
+brushes               2768/8192        33216/98304    (33.8%) 
+brushsides           24017/65536      192136/524288   (36.6%) 
+planes               22568/65536      451360/1310720  (34.4%) 
+vertexes             22304/65536      267648/786432   (34.0%) 
+nodes                 9819/65536      314208/2097152  (15.0%) 
+texinfos              4163/12288      299736/884736   (33.9%) 
+texdata                324/2048        10368/65536    (15.8%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts            1156/0           23120/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples       44478/0           44478/0        ( 0.0%) 
+faces                15145/65536      848120/3670016  (23.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10560/65536      591360/3670016  (16.1%) 
+leaves               10088/65536      322816/2097152  (15.4%) 
+leaffaces            18110/65536       36220/131072   (27.6%) 
+leafbrushes           5179/65536       10358/131072   ( 7.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges           114168/512000     456672/2048000  (22.3%) 
+edges                63242/256000     252968/1024000  (24.7%) 
+LDR worldlights        543/8192        47784/720896   ( 6.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            894/32768        8940/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15084/65536       30168/131072   (23.0%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2753480/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      208245/393216   (53.0%) 
+LDR ambient table    10088/65536       40352/262144   (15.4%) 
+HDR ambient table    10088/65536       40352/262144   (15.4%) 
+LDR leaf ambient     31100/65536      870800/1835008  (47.5%) 
+HDR leaf ambient     10088/65536      282464/1835008  (15.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/688      ( 0.1%) 
+pakfile               [variable]     1593915/0        ( 0.0%) 
+physics               [variable]     1358093/4194304  (32.4%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40863
+Writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_landmark (2590.87 1778.60 0.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 -120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 748.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 2156.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3714.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3348.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3372.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1358485 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5850 texinfos to 4166
+Reduced 336 texdatas to 324 (7823 bytes to 7367)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+LoadPortals: couldn't read c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[116 texlights parsed from 'lights.rad']
+
+Loading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+No vis information, direct lighting only.
+15145 faces
+26 degenerate faces
+515856 square feet [74283296.00 square inches]
+4 Displacements
+16145 Square Feet [2324916.75 Square Inches]
+543 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0177 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+281 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 268/1024        12864/49152    (26.2%) 
+brushes               2769/8192        33228/98304    (33.8%) 
+brushsides           24023/65536      192184/524288   (36.7%) 
+planes               22572/65536      451440/1310720  (34.4%) 
+vertexes             22315/65536      267780/786432   (34.0%) 
+nodes                 9824/65536      314368/2097152  (15.0%) 
+texinfos              4166/12288      299952/884736   (33.9%) 
+texdata                324/2048        10368/65536    (15.8%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts            1156/0           23120/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples       44478/0           44478/0        ( 0.0%) 
+faces                15145/65536      848120/3670016  (23.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10560/65536      591360/3670016  (16.1%) 
+leaves               10093/65536      322976/2097152  (15.4%) 
+leaffaces            18101/65536       36202/131072   (27.6%) 
+leafbrushes           5181/65536       10362/131072   ( 7.9%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges           114155/512000     456620/2048000  (22.3%) 
+edges                63238/256000     252952/1024000  (24.7%) 
+LDR worldlights        543/8192        47784/720896   ( 6.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            896/32768        8960/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15096/65536       30192/131072   (23.0%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2766248/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      208245/393216   (53.0%) 
+LDR ambient table    10093/65536       40372/262144   (15.4%) 
+HDR ambient table    10093/65536       40372/262144   (15.4%) 
+LDR leaf ambient     31144/65536      872032/1835008  (47.5%) 
+HDR leaf ambient     10093/65536      282604/1835008  (15.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/688      ( 0.1%) 
+pakfile               [variable]     1593915/0        ( 0.0%) 
+physics               [variable]     1358485/4194304  (32.4%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40849
+Writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 minute, 31 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_landmark (2590.87 1778.60 0.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 -120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 748.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 2156.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3714.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3348.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3372.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1358485 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5850 texinfos to 4166
+Reduced 336 texdatas to 324 (7823 bytes to 7367)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+6 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+LoadPortals: couldn't read c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[116 texlights parsed from 'lights.rad']
+
+Loading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+No vis information, direct lighting only.
+15145 faces
+26 degenerate faces
+515856 square feet [74283296.00 square inches]
+4 Displacements
+16145 Square Feet [2324916.75 Square Inches]
+543 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0171 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+281 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 268/1024        12864/49152    (26.2%) 
+brushes               2769/8192        33228/98304    (33.8%) 
+brushsides           24023/65536      192184/524288   (36.7%) 
+planes               22572/65536      451440/1310720  (34.4%) 
+vertexes             22315/65536      267780/786432   (34.0%) 
+nodes                 9824/65536      314368/2097152  (15.0%) 
+texinfos              4166/12288      299952/884736   (33.9%) 
+texdata                324/2048        10368/65536    (15.8%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts            1156/0           23120/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples       44478/0           44478/0        ( 0.0%) 
+faces                15145/65536      848120/3670016  (23.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10560/65536      591360/3670016  (16.1%) 
+leaves               10093/65536      322976/2097152  (15.4%) 
+leaffaces            18101/65536       36202/131072   (27.6%) 
+leafbrushes           5181/65536       10362/131072   ( 7.9%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges           114155/512000     456620/2048000  (22.3%) 
+edges                63238/256000     252952/1024000  (24.7%) 
+LDR worldlights        543/8192        47784/720896   ( 6.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            896/32768        8960/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15096/65536       30192/131072   (23.0%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2766248/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      208244/393216   (53.0%) 
+LDR ambient table    10093/65536       40372/262144   (15.4%) 
+HDR ambient table    10093/65536       40372/262144   (15.4%) 
+LDR leaf ambient     31180/65536      873040/1835008  (47.6%) 
+HDR leaf ambient     10093/65536      282604/1835008  (15.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/688      ( 0.1%) 
+pakfile               [variable]     1593915/0        ( 0.0%) 
+physics               [variable]     1358485/4194304  (32.4%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40849
+Writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_landmark (2590.87 1778.60 0.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 -120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 748.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 2156.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3714.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3348.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3372.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1358485 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5850 texinfos to 4166
+Reduced 336 texdatas to 324 (7823 bytes to 7367)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+LoadPortals: couldn't read c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[116 texlights parsed from 'lights.rad']
+
+Loading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+No vis information, direct lighting only.
+15145 faces
+26 degenerate faces
+515856 square feet [74283296.00 square inches]
+4 Displacements
+16145 Square Feet [2324916.75 Square Inches]
+543 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0167 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+281 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 268/1024        12864/49152    (26.2%) 
+brushes               2769/8192        33228/98304    (33.8%) 
+brushsides           24023/65536      192184/524288   (36.7%) 
+planes               22572/65536      451440/1310720  (34.4%) 
+vertexes             22315/65536      267780/786432   (34.0%) 
+nodes                 9824/65536      314368/2097152  (15.0%) 
+texinfos              4166/12288      299952/884736   (33.9%) 
+texdata                324/2048        10368/65536    (15.8%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts            1156/0           23120/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples       44478/0           44478/0        ( 0.0%) 
+faces                15145/65536      848120/3670016  (23.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10560/65536      591360/3670016  (16.1%) 
+leaves               10093/65536      322976/2097152  (15.4%) 
+leaffaces            18101/65536       36202/131072   (27.6%) 
+leafbrushes           5181/65536       10362/131072   ( 7.9%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges           114155/512000     456620/2048000  (22.3%) 
+edges                63238/256000     252952/1024000  (24.7%) 
+LDR worldlights        543/8192        47784/720896   ( 6.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            896/32768        8960/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15096/65536       30192/131072   (23.0%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2766248/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      208188/393216   (52.9%) 
+LDR ambient table    10093/65536       40372/262144   (15.4%) 
+HDR ambient table    10093/65536       40372/262144   (15.4%) 
+LDR leaf ambient     31180/65536      873040/1835008  (47.6%) 
+HDR leaf ambient     10093/65536      282604/1835008  (15.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/688      ( 0.1%) 
+pakfile               [variable]     1593915/0        ( 0.0%) 
+physics               [variable]     1358485/4194304  (32.4%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40849
+Writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+41 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_landmark (2590.87 1778.60 0.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 -120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 748.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 2156.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3714.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3348.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3372.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1357931 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5844 texinfos to 4163
+Reduced 336 texdatas to 324 (7823 bytes to 7367)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+LoadPortals: couldn't read c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[116 texlights parsed from 'lights.rad']
+
+Loading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+No vis information, direct lighting only.
+15139 faces
+26 degenerate faces
+515547 square feet [74238848.00 square inches]
+4 Displacements
+16145 Square Feet [2324916.75 Square Inches]
+543 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0169 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+281 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 267/1024        12816/49152    (26.1%) 
+brushes               2768/8192        33216/98304    (33.8%) 
+brushsides           24017/65536      192136/524288   (36.6%) 
+planes               22560/65536      451200/1310720  (34.4%) 
+vertexes             22307/65536      267684/786432   (34.0%) 
+nodes                 9818/65536      314176/2097152  (15.0%) 
+texinfos              4163/12288      299736/884736   (33.9%) 
+texdata                324/2048        10368/65536    (15.8%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts            1156/0           23120/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples       44478/0           44478/0        ( 0.0%) 
+faces                15139/65536      847784/3670016  (23.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10554/65536      591024/3670016  (16.1%) 
+leaves               10086/65536      322752/2097152  (15.4%) 
+leaffaces            18095/65536       36190/131072   (27.6%) 
+leafbrushes           5180/65536       10360/131072   ( 7.9%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges           114107/512000     456428/2048000  (22.3%) 
+edges                63214/256000     252856/1024000  (24.7%) 
+LDR worldlights        543/8192        47784/720896   ( 6.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            896/32768        8960/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15096/65536       30192/131072   (23.0%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2763888/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      208320/393216   (53.0%) 
+LDR ambient table    10086/65536       40344/262144   (15.4%) 
+HDR ambient table    10086/65536       40344/262144   (15.4%) 
+LDR leaf ambient     31144/65536      872032/1835008  (47.5%) 
+HDR leaf ambient     10086/65536      282408/1835008  (15.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/688      ( 0.1%) 
+pakfile               [variable]     1593915/0        ( 0.0%) 
+physics               [variable]     1357931/4194304  (32.4%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40837
+Writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+42 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity info_landmark (2590.87 1778.60 0.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 -120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 748.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 2148.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3714.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3348.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3372.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1357931 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5844 texinfos to 4163
+Reduced 336 texdatas to 324 (7823 bytes to 7367)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+LoadPortals: couldn't read c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[116 texlights parsed from 'lights.rad']
+
+Loading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+No vis information, direct lighting only.
+15140 faces
+26 degenerate faces
+516404 square feet [74362224.00 square inches]
+4 Displacements
+16145 Square Feet [2324916.75 Square Inches]
+543 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0335 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+281 of 458 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 267/1024        12816/49152    (26.1%) 
+brushes               2768/8192        33216/98304    (33.8%) 
+brushsides           24017/65536      192136/524288   (36.6%) 
+planes               22564/65536      451280/1310720  (34.4%) 
+vertexes             22309/65536      267708/786432   (34.0%) 
+nodes                 9818/65536      314176/2097152  (15.0%) 
+texinfos              4163/12288      299736/884736   (33.9%) 
+texdata                324/2048        10368/65536    (15.8%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts            1156/0           23120/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples       44478/0           44478/0        ( 0.0%) 
+faces                15140/65536      847840/3670016  (23.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces            10554/65536      591024/3670016  (16.1%) 
+leaves               10086/65536      322752/2097152  (15.4%) 
+leaffaces            18096/65536       36192/131072   (27.6%) 
+leafbrushes           5180/65536       10360/131072   ( 7.9%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges           114113/512000     456452/2048000  (22.3%) 
+edges                63217/256000     252868/1024000  (24.7%) 
+LDR worldlights        543/8192        47784/720896   ( 6.6%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            896/32768        8960/327680   ( 2.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         15102/65536       30204/131072   (23.0%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     2766384/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      208332/393216   (53.0%) 
+LDR ambient table    10086/65536       40344/262144   (15.4%) 
+HDR ambient table    10086/65536       40344/262144   (15.4%) 
+LDR leaf ambient     31113/65536      871164/1835008  (47.5%) 
+HDR leaf ambient     10086/65536      282408/1835008  (15.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/688      ( 0.1%) 
+pakfile               [variable]     1593915/0        ( 0.0%) 
+physics               [variable]     1357931/4194304  (32.4%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 40841
+Writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+42 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity env_fog_controller (2544.00 2864.00 1016.09) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 -120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 748.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 2148.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3714.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3348.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3372.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1357931 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5844 texinfos to 4163
+Reduced 336 texdatas to 324 (7823 bytes to 7367)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity light_environment (728.10 2110.85 2910.99) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 -120.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 748.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3184.0 4096.0 2148.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3714.0 4096.0 -92.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3314.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3348.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3372.0 4096.0 840.1)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1357931 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5844 texinfos to 4163
+Reduced 336 texdatas to 324 (7823 bytes to 7367)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1359435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1359435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[116 texlights parsed from 'lights.rad']
+
+Loading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+12100 faces
+22 degenerate faces
+290287 square feet [41801416.00 square inches]
+4 Displacements
+16145 Square Feet [2324916.75 Square Inches]
+12078 patches before subdivision
+51908 patches after subdivision
+653 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6564455, max 621
+transfer lists:  50.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(267476, 276161, 300071)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(68151, 68133, 58388)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(21665, 19780, 12636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7484, 6234, 2987)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2792, 2131, 769)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1083, 767, 213)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(436, 294, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(180, 118, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(76, 50, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(33, 22, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(14, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0138 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+348 of 568 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 267/1024        12816/49152    (26.1%) 
+brushes               2772/8192        33264/98304    (33.8%) 
+brushsides           24041/65536      192328/524288   (36.7%) 
+planes               22568/65536      451360/1310720  (34.4%) 
+vertexes             19164/65536      229968/786432   (29.2%) 
+nodes                 7359/65536      235488/2097152  (11.2%) 
+texinfos              3674/12288      264528/884736   (29.9%) 
+texdata                320/2048        10240/65536    (15.6%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts            1156/0           23120/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples       44478/0           44478/0        ( 0.0%) 
+faces                12100/65536      677600/3670016  (18.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             8736/65536      489216/3670016  (13.3%) 
+leaves                7627/65536      244064/2097152  (11.6%) 
+leaffaces            14461/65536       28922/131072   (22.1%) 
+leafbrushes           5807/65536       11614/131072   ( 8.9%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            92296/512000     369184/2048000  (18.0%) 
+edges                51580/256000     206320/1024000  (20.1%) 
+LDR worldlights        653/8192        57464/720896   ( 8.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            636/32768        6360/327680   ( 1.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10869/65536       21738/131072   (16.6%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1884716/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      694322/16777216 ( 4.1%) 
+entdata               [variable]      207994/393216   (52.9%) 
+LDR ambient table     7627/65536       30508/262144   (11.6%) 
+HDR ambient table     7627/65536       30508/262144   (11.6%) 
+LDR leaf ambient     20723/65536      580244/1835008  (31.6%) 
+HDR leaf ambient      7627/65536      213556/1835008  (11.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/688      ( 0.1%) 
+pakfile               [variable]     1593915/0        ( 0.0%) 
+physics               [variable]     1359435/4194304  (32.4%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 32429
+Writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+34 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1359435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1358882 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5841 texinfos to 3671
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+6 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1358882 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5841 texinfos to 3671
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1358882 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5841 texinfos to 3671
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1359435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[116 texlights parsed from 'lights.rad']
+
+Loading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+12100 faces
+22 degenerate faces
+290287 square feet [41801416.00 square inches]
+4 Displacements
+16145 Square Feet [2324916.75 Square Inches]
+12078 patches before subdivision
+51908 patches after subdivision
+653 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 6564455, max 621
+transfer lists:  50.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(267476, 276161, 300071)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(68151, 68133, 58388)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(21665, 19780, 12636)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7484, 6234, 2987)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(2792, 2131, 769)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1083, 767, 213)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(436, 294, 64)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(180, 118, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(76, 50, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(33, 22, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(14, 11, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(6, 5, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0133 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+348 of 568 (61% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 267/1024        12816/49152    (26.1%) 
+brushes               2772/8192        33264/98304    (33.8%) 
+brushsides           24041/65536      192328/524288   (36.7%) 
+planes               22568/65536      451360/1310720  (34.4%) 
+vertexes             19164/65536      229968/786432   (29.2%) 
+nodes                 7359/65536      235488/2097152  (11.2%) 
+texinfos              3674/12288      264528/884736   (29.9%) 
+texdata                320/2048        10240/65536    (15.6%) 
+dispinfos                4/0             704/0        ( 0.0%) 
+disp_verts            1156/0           23120/0        ( 0.0%) 
+disp_tris             2048/0            4096/0        ( 0.0%) 
+disp_lmsamples       44478/0           44478/0        ( 0.0%) 
+faces                12100/65536      677600/3670016  (18.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             8736/65536      489216/3670016  (13.3%) 
+leaves                7627/65536      244064/2097152  (11.6%) 
+leaffaces            14461/65536       28922/131072   (22.1%) 
+leafbrushes           5807/65536       11614/131072   ( 8.9%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            92296/512000     369184/2048000  (18.0%) 
+edges                51580/256000     206320/1024000  (20.1%) 
+LDR worldlights        653/8192        57464/720896   ( 8.0%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            2/32768          24/393216   ( 0.0%) 
+waterstrips            636/32768        6360/327680   ( 1.9%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         10869/65536       21738/131072   (16.6%) 
+cubemapsamples          14/1024          224/16384    ( 1.4%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]     1884716/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      694322/16777216 ( 4.1%) 
+entdata               [variable]      208070/393216   (52.9%) 
+LDR ambient table     7627/65536       30508/262144   (11.6%) 
+HDR ambient table     7627/65536       30508/262144   (11.6%) 
+LDR leaf ambient     20723/65536      580244/1835008  (31.6%) 
+HDR leaf ambient      7627/65536      213556/1835008  (11.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/688      ( 0.1%) 
+pakfile               [variable]     1593915/0        ( 0.0%) 
+physics               [variable]     1359435/4194304  (32.4%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 32429
+Writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+33 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (1)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1359435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+6 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1359435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1359435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1359435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1359435 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1359467 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1359467 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5847 texinfos to 3674
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2274 portalclusters
+7475 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232912 visible clusters (13.99%)
+Total clusters visible: 1665035
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:694322  compressed from 1309824
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1358522 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5835 texinfos to 3667
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2273 portalclusters
+7468 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232871 visible clusters (13.99%)
+Total clusters visible: 1664593
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:695848  compressed from 1309248
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl1\materials
+Loading C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\half-life 2\hl1\gameinfo.txt
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 128 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.prt...Building visibility clusters...
+done (0)
+WARNING: node without a volume
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/2desert*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (1) (1358522 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 5835 texinfos to 3667
+Reduced 336 texdatas to 320 (7823 bytes to 7289)
+Writing C:\Users\magisys-win\Desktop\maps\c1a1_d_elevtest.bsp
+5 seconds elapsed
+
+
+
+4 threads
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+reading c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.prt
+2273 portalclusters
+7468 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 232871 visible clusters (13.99%)
+Total clusters visible: 1664593
+Average clusters visible: 732
+Building PAS...
+Average clusters audible: 1235
+visdatasize:695848  compressed from 1309248
+writing c:\users\magisys-win\desktop\maps\c1a1_d_elevtest.bsp
+1 second elapsed

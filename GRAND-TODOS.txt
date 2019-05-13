@@ -1,0 +1,35 @@
+GRAND IDEAS MAN LIST:
+ENEMY NPCS:
+Headcrabs: replace with Buneary, place more/adjust health to compensate for new model's raised height, make sure all attack screams are it shouting "BUNEARY!" to be as annoying as the pokeyman anime voices are
+Houndeyes: replace with Anonfilly, it can fit in the size range, it's just as annoying and bizarre and it's a way to have an enemy that goes around doing sonic booms and yelling "faggot"
+Vortigaunts: not sure yet, maybe keep the joke from SS:WTF with the Covenant models
+Marines: prob keep the bodies but make new head models straight out of 3D Movie Maker with ridiculously happy textures
+Barnacles: floating downfacing Pac Mans, the starting sound for them catching you is some bassy voice going "MMMMM YUM"
+Giant blast pit tentacle: bigass gummy worm, maybe find how to do a transparent model effect because Source
+(gotta come up with more to fit here)
+
+FRIENDLY NPCS:
+Scientists: replace labcoats with hawaiian shirts and make them all smoke pipes to be like "Bob"
+Barneys: make them all look like Parkourdude91, and either get a good imitation VA or somehow convince the man himself to step in
+Single out a scientist as the new Kleiner, and make them Macho Man Randy Savage
+Have some moment in the chase to the real Lambda entrance where you can chill on a bench with RONALD MCGODDAMN DONALD
+
+WEAPONS:
+Got crowbar and glock covered for now
+MP5: replace with a M3A1 that has "NO LOVE DEEP WEB" on the barrel since the gun fires with MC Ride noises 
+Tau cannon: make it the Cow Cannon, makes distorted mooing noises when firing and the beam has a holstein pattern
+Rocket Launcher: the Super Scope, obviously
+Add in various subweapons that match to existing ones, like fingerless glove fists that are faster than crowbar but have less damage per hit, or a special glock that has a weaker main fire but has the HL2 charge shot
+Special use weapon where occasionally punching instead lets you grab a Buneary mid-jump, meaning you can fling the rabbit back to attack other enemies for a while
+
+MAPS:
+Fuse original maps together where feasible or useful gameplay-wise in order to save on load screen pauses and work in multistage jokes
+Completely fuck with Lambda Complex, players get down the elevator only to discover it's a tram ride to the middle of downtown Albequerqe and the player now has to fight aliens, aggro Barneys and the military to make it to a hole blown in the floor of a generic big box retail store to enter the real lambda complex
+Xen is now Geocities hell because fuck Xen
+find some way to fix a rp_downtown joke in
+
+MUSIC: 
+Get the game to load more music than the defaults so we can spam actual music triggers everywhere since using ambient_generic allows hitting Escape to stop the sounds
+Make new Vox splices so we can further mess up the ingame announcement system (we already have enough new clips to do things like make it say "Get back, get back, get back to where you once belong" and go perverted over the rocket launch)
+
+ADD YOUR IDEAS, M8S

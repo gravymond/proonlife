@@ -21,6 +21,7 @@ Tau cannon: make it the Cow Cannon, makes distorted mooing noises when firing an
 Rocket Launcher: the Super Scope, obviously
 Add in various subweapons that match to existing ones, like fingerless glove fists that are faster than crowbar but have less damage per hit, or a special glock that has a weaker main fire but has the HL2 charge shot
 Special use weapon where occasionally punching instead lets you grab a Buneary mid-jump, meaning you can fling the rabbit back to attack other enemies for a while
+Backport the Gravity Gun and turn everything you can into a func_physbox
 
 MAPS:
 Fuse original maps together where feasible or useful gameplay-wise in order to save on load screen pauses and work in multistage jokes
@@ -33,3 +34,5 @@ Get the game to load more music than the defaults so we can spam actual music tr
 Make new Vox splices so we can further mess up the ingame announcement system (we already have enough new clips to do things like make it say "Get back, get back, get back to where you once belong" and go perverted over the rocket launch)
 
 ADD YOUR IDEAS, M8S
+
+TESTING PROONBOT

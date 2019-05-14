@@ -125,13 +125,13 @@ HG_CIVVIES hgrunt/hg_civvies {Len 6.73}
 // C1A0 intercom\
 C1A0_START dadeda vox_login {Len 11.18}
 
-C1A0_0 dadeda (e95) agent(t0) coomer(t0), report to(e70) topside tactical operations center(e100) {Len 6.60}
-C1A0_1 dadeda inspection team, to(e70) radioactive materials handling bay(e100) {Len 6.15}
-C1A0_2 dadeda (e95) agent sixteen, report to(e70) administration sub level two(e100) {Len 6.28}
-C1A0_3 doop (e95) doctor johnson, please call observation tank one(e100) {Len 5.94}
-C1A0_4 doop (e95 p96) doctor west(t0), please report to(e70) lambda(s0) reactor complex(e100) {Len 6.35}
-C1A0_5 doop (e95) doctor cross, call seven two nine please(e100) {Len 5.32}
-C1A0_6 doop (e95) sargeant(s0) bailey(s0), to(e70) topside checkpoint bravo(e100) {Len 5.45}
+C1A0_0 dadeda (e95) bust(t0) ass(t0) deeoo (e95 p98) cleanup(t0) ass(t0) {Len 6.60}
+C1A0_1 dadeda ass blast nine eleven(e95 p98) {Len 6.15}
+C1A0_2 dadeda (e95) agent sixteen, report to(e70) ass canal(e100) {Len 6.28}
+C1A0_3 doop (e95) no(e100) {Len 5.94}
+C1A0_4 doop (e95 p96) go away government(e100) {Len 6.35}
+C1A0_5 doop (e95) idiot helicopter(e100) {Len 5.32}
+C1A0_6 doop (e95) captain cap cap captain cap cap called call captain cap dirt(e100) {Len 5.45}
 C1A0_7 dadeda (e95) cryogenic safety crew, report status at eleven hundred please(e100) {Len 6.74}
 C1A0_8 dadeda (e95) coded message for captain black, command and(s0 e100 t0) communication center(e100) {Len 6.86}
 C1A0_9 dadeda (e95 p102) sector c(e100) science personnel, report to(e70) anomalous materials test lab(e100) {Len 8.24}

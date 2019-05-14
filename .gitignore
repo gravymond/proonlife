@@ -1,4 +1,5 @@
 *.vpk
+*.tmp
 /save
 /bin
 /downloadlists
@@ -7,3 +8,4 @@
 /custom/proonlife/sound/sound.cache
 /demoheader.tmp
 /modelsounds.cache
+/hl1_pak.vpk.sound.cache
